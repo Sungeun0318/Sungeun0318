@@ -93,6 +93,19 @@ AI 기반으로 개인 맞춤형 학습 루틴을 추천하고 캘린더로 관�
 
 </td>
 </tr>
+<tr>
+<td width="50%" colspan="2">
+
+**NOOS** &mdash; 졸업작품 (개발 진행 중)
+
+AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트. Spring Boot 백엔드, Next.js 프론트엔드, AI 모듈로 구성되어 있습니다.
+
+`Spring Boot` `Next.js` `MySQL` `AI` `IoT`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/noos-graduation)
+
+</td>
+</tr>
 </table>
 
 ---
