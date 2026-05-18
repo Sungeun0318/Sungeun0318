@@ -66,21 +66,11 @@
 
 [![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-Repo-02569B?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim)
+[![Design](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/Sungeun0318/Swimmingcommunityscreendesign)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**Swimming Community** &mdash; 수영 커뮤니티 프론트엔드
-
-수영 동호회를 위한 커뮤니티 웹 프론트엔드. shadcn/ui 기반 모던 UI 컴포넌트로 구성.
-
-`React` `TypeScript` `Tailwind CSS` `Radix UI`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/Swimmingcommunityscreendesign)
-
-</td>
 <td width="50%">
 
 **NOOS** &mdash; 졸업작품 (개발 진행 중)
