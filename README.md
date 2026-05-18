@@ -143,8 +143,15 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <div align="center">
 
+**GitHub Stats** — 커밋, PR, 이슈 등 활동 통계
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=donut&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8" height="170" />
+
+<br>
+
+**Top Languages** — 언어 비율 (8개 언어)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8" height="170" />
 
 </div>
 
