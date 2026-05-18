@@ -76,7 +76,7 @@
 
 기업 ESG 탄소중립 인증을 위한 나무 추천 및 탄소 흡수량 예측 시스템. 기후/토양 데이터 기반 최적 수종 추천, 탄소 흡수량 산출, 인증마크 발급 기능을 담당했습니다.
 
-`Spring Boot` `React` `TypeScript` `MySQL` `AWS`
+`Java 17` `Spring Boot` `JPA` `MySQL` `JWT` `React` `TypeScript` `Vite` `Tailwind CSS` `AWS (EC2/S3/RDS)` `Apache POI` `ZXing`
 
 [![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/backend-GROOT)
 [![Frontend](https://img.shields.io/badge/Frontend-Repo-61DAFB?style=flat-square&logo=github)](https://github.com/Sungeun0318/frontend-GROOT)
@@ -88,7 +88,7 @@
 
 수영 훈련 기록, 일정 관리, 수영장 검색 및 커뮤니티 기능을 제공하는 앱. API 설계부터 백엔드, Flutter 모바일 앱까지 풀스택으로 진행한 프로젝트입니다.
 
-`Spring Boot` `Flutter` `PostgreSQL` `Firebase`
+`Java 21` `Spring Boot` `JPA` `QueryDSL` `PostgreSQL` `JWT` `AWS (EC2/S3/RDS)` `Flutter` `Dart` `Riverpod` `RevenueCat` `Google/Naver Maps`
 
 [![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-Repo-02569B?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim)
@@ -103,7 +103,7 @@
 
 AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트. Spring Boot 백엔드, Next.js 프론트엔드, AI 모듈로 구성되어 있습니다.
 
-`Spring Boot` `Next.js` `MySQL` `AI` `IoT`
+`Java 17` `Spring Boot` `MyBatis` `MySQL` `WebSocket` `React 19` `Vite` `Next.js` `Python` `FastAPI` `HuggingFace` `GSAP` `Web Bluetooth` `ESP32`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/noos-graduation)
 
