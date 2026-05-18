@@ -1,72 +1,74 @@
 <div align="center">
 
-# Kim Sungeun
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-**Backend Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
 
-실행력과 적응력으로 성장하는 백엔드 개발자
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-2B2D42?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318)
-[![Email](https://img.shields.io/badge/Email-kimsungeun0318-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:kimsungeun0318@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318)
+[![Email](https://img.shields.io/badge/Email-kimsungeun0318-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kimsungeun0318@naver.com)
 
 </div>
 
----
+<br>
 
-### Tech Stack
+## Tech Stack
+
+<div align="center">
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 **AI / Python**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
+</div>
 
-### Projects
+<br>
+
+## Projects
 
 <table>
 <tr>
@@ -78,8 +80,8 @@
 
 `Java 17` `Spring Boot` `JPA` `MySQL` `JWT` `React` `TypeScript` `Vite` `Tailwind CSS` `AWS (EC2/S3/RDS)` `Apache POI` `ZXing`
 
-[![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/backend-GROOT)
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-61DAFB?style=flat-square&logo=github)](https://github.com/Sungeun0318/frontend-GROOT)
+[![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/backend-GROOT)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/frontend-GROOT)
 
 </td>
 <td width="50%">
@@ -90,9 +92,9 @@
 
 `Java 21` `Spring Boot` `JPA` `QueryDSL` `PostgreSQL` `JWT` `AWS (EC2/S3/RDS)` `Flutter` `Dart` `Riverpod` `RevenueCat` `Google/Naver Maps`
 
-[![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim-backend)
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-02569B?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim)
-[![Design](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/Sungeun0318/Swimmingcommunityscreendesign)
+[![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/swwim-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-02569B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/swwim)
+[![Design](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Sungeun0318/Swimmingcommunityscreendesign)
 
 </td>
 </tr>
@@ -105,15 +107,15 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 `Java 17` `Spring Boot` `MyBatis` `MySQL` `WebSocket` `React 19` `Vite` `Next.js` `Python` `FastAPI` `HuggingFace` `GSAP` `Web Bluetooth` `ESP32`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/noos-graduation)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-graduation)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### Study
+## Study
 
 | Repository | Description | Language |
 |:---|:---|:---|
@@ -123,9 +125,9 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 | [pythonML](https://github.com/Sungeun0318/pythonML) | Python 머신러닝 학습 | Python |
 | [front](https://github.com/Sungeun0318/front) | 프론트엔드 학습 | HTML |
 
----
+<br>
 
-### About
+## About
 
 | | |
 |:---|:---|
@@ -135,13 +137,29 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 | **수상** | 웹서버 프로그래밍 경진대회 · 2025.07 (교내) |
 | | ICT 통합 설계 경진대회 · 2025.12 (교내) |
 
----
+<br>
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=6" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=6" height="160" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sungeun0318&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
