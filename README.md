@@ -107,9 +107,12 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)](https://github.com/Sungeun0318)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8" width="49%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8)](https://github.com/Sungeun0318)
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sungeun0318&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%" />
 
 </div>
 
