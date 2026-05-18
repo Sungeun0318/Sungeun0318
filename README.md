@@ -117,6 +117,7 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 | Repository | Description | Language |
 |:---|:---|:---|
+| [backend](https://github.com/Sungeun0318/backend) | Java 백엔드 학습 (day01~day16) | Java |
 | [spingweb](https://github.com/Sungeun0318/spingweb) | Spring Boot 웹 개발 학습 | Java |
 | [python](https://github.com/Sungeun0318/python) | Python 기초 및 실습 | Python |
 | [pythonML](https://github.com/Sungeun0318/pythonML) | Python 머신러닝 학습 | Python |
