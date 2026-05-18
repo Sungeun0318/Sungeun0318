@@ -60,12 +60,12 @@ Spring Boot 기반의 안정적이고 확장 가능한 서버를 설계합니다
 
 **SWWIM** &mdash; 수영 훈련 관리 앱
 
-수영 훈련 기록, 일정 관리, 수영장 검색 및 커뮤니티 기능을 제공하는 앱. API 설계부터 Flutter 모바일, React 웹 프론트엔드까지 진행한 프로젝트입니다.
+수영 훈련 기록, 일정 관리, 수영장 검색 및 커뮤니티 기능을 제공하는 앱. API 설계부터 백엔드, Flutter 모바일 앱까지 풀스택으로 진행한 프로젝트입니다.
 
-`Spring Boot` `Flutter` `React` `PostgreSQL` `Firebase`
+`Spring Boot` `Flutter` `PostgreSQL` `Firebase`
 
-[![API Spec](https://img.shields.io/badge/API-Spec-FF6C37?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim-api-spec)
-[![App](https://img.shields.io/badge/Flutter-App-02569B?style=flat-square&logo=github)](https://github.com/Sungeun0318/zero_top)
+[![Backend](https://img.shields.io/badge/Backend-Repo-6DB33F?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-02569B?style=flat-square&logo=github)](https://github.com/Sungeun0318/swwim)
 
 </td>
 </tr>
