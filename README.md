@@ -6,9 +6,9 @@
 
 Spring Boot 기반의 안정적이고 확장 가능한 서버를 설계합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-2B2D42?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-2B2D42?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318)
-[![Email](https://img.shields.io/badge/Email-kimkim7031-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kimkim7031@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kimsungeun0318-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:kimsungeun0318@naver.com)
 
 </div>
 
