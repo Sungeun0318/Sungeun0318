@@ -72,17 +72,6 @@
 <tr>
 <td width="50%">
 
-**AI Routine** &mdash; AI 학습 루틴 추천
-
-AI 기반으로 개인 맞춤형 학습 루틴을 추천하고 캘린더로 관리할 수 있는 웹 서비스.
-
-`Node.js` `Express` `MongoDB` `FullCalendar`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/ai-routiune)
-
-</td>
-<td width="50%">
-
 **Swimming Community** &mdash; 수영 커뮤니티 프론트엔드
 
 수영 동호회를 위한 커뮤니티 웹 프론트엔드. shadcn/ui 기반 모던 UI 컴포넌트로 구성.
@@ -92,9 +81,7 @@ AI 기반으로 개인 맞춤형 학습 루틴을 추천하고 캘린더로 관�
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Sungeun0318/Swimmingcommunityscreendesign)
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 **NOOS** &mdash; 졸업작품 (개발 진행 중)
 
