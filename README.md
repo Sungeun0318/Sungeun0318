@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6,50:c5cae9,100:e8eaf6&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=1a237e&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=5c6bc0&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1a237e&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+</picture>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318)
@@ -18,15 +26,27 @@
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
+</picture>
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
+</picture>
 
 **AI / Python & DevOps**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
+</picture>
 
 </div>
 
@@ -107,18 +127,42 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungeun0318&theme=github_dark" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungeun0318&theme=github_dark&utcOffset=9" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungeun0318&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungeun0318&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungeun0318&theme=github_dark" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungeun0318&theme=github_dark&utcOffset=9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungeun0318&theme=default&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungeun0318&theme=github_dark&utcOffset=9" height="160" />
+</picture>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=github_dark" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=github_dark" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=github_dark" height="160" />
+</picture>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungeun0318&theme=github_dark" width="98%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungeun0318&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungeun0318&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungeun0318&theme=github_dark" width="98%" />
+</picture>
 
 </div>
 
@@ -126,6 +170,10 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6,50:c5cae9,100:e8eaf6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</picture>
 
 </div>
