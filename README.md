@@ -143,17 +143,8 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=6" height="160" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sungeun0318&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=github_dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sungeun0318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sungeun0318&layout=donut&theme=tokyonight&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8" height="170" />
 
 </div>
 
