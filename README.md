@@ -152,7 +152,8 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sungeun0318&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungeun0318&theme=github_dark" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sungeun0318&theme=github_dark" height="160" />
 
 </div>
 
