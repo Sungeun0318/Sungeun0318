@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6,50:c5cae9,100:e8eaf6&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=1a237e&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=5c6bc0&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6%2C50:c5cae9%2C100:e8eaf6&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=1a237e&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=5c6bc0&descAlignY=55&animation=fadeIn" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </picture>
 
@@ -159,8 +159,8 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6,50:c5cae9,100:e8eaf6&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:0d1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6%2C50:c5cae9%2C100:e8eaf6&height=120&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 </picture>
 
