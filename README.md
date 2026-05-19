@@ -26,27 +26,15 @@
 
 **Backend & Database**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres,mongodb,redis&theme=dark" />
 
 **Frontend & Mobile**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart,firebase&theme=dark" />
 
 **AI / Python & DevOps**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
 
 </div>
 
