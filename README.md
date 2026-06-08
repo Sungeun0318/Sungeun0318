@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6%2C50:c5cae9%2C100:e8eaf6&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=1a237e&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=5c6bc0&descAlignY=55&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0%20%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80%20%EC%A7%81%EC%A0%91%20%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6%2C50:c5cae9%2C100:e8eaf6&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=1a237e&fontAlignY=35&desc=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0%20%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80%20%EC%A7%81%EC%A0%91%20%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descColor=5c6bc0&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Kim%20Sungeun&fontSize=50&fontColor=c9d1d9&fontAlignY=35&desc=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0%20%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80%20%EC%A7%81%EC%A0%91%20%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1a237e&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%EC%8B%A4%ED%96%89%EB%A0%A5%EA%B3%BC+%EC%A0%81%EC%9D%91%EB%A0%A5%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0+%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80+%EC%A7%81%EC%A0%91+%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1a237e&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0+%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80+%EC%A7%81%EC%A0%91+%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0+%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80+%EC%A7%81%EC%A0%91+%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
 </picture>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
@@ -58,7 +58,7 @@
 </td>
 <td width="50%">
 
-**SWWIM** &mdash; 수영 훈련 관리 앱
+**SWWIM (Swimming Starter)** &mdash; 수영 훈련 관리 앱
 
 수영 훈련 기록, 일정 관리, 수영장 검색 및 커뮤니티 기능을 제공하는 앱. API 설계부터 백엔드, Flutter 모바일 앱까지 풀스택으로 진행한 프로젝트입니다.
 
@@ -75,9 +75,9 @@
 
 **NOOS** &mdash; 졸업작품 (개발 진행 중)
 
-AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트. Spring Boot 백엔드, Next.js 프론트엔드, AI 모듈로 구성되어 있습니다.
+AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트. Spring Boot 백엔드, React 19 + Vite 프론트엔드, AI 모듈로 구성되어 있습니다.
 
-`Java 17` `Spring Boot` `MyBatis` `MySQL` `WebSocket` `React 19` `Vite` `Next.js` `Python` `FastAPI` `HuggingFace` `GSAP` `Web Bluetooth` `ESP32`
+`Java 17` `Spring Boot` `MyBatis` `MySQL` `WebSocket` `React 19` `Vite` `Python` `FastAPI` `HuggingFace` `GSAP` `Web Bluetooth` `ESP32`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-graduation)
 [![Mobile Backend](https://img.shields.io/badge/Mobile_Backend-Repo-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-backend)
