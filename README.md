@@ -79,7 +79,7 @@ AI 기반 음악 생성과 스마트 조명을 결합한 오브제 프로젝트.
 
 `Java 17` `Spring Boot` `MyBatis` `MySQL` `WebSocket` `React 19` `Vite` `Python` `FastAPI` `HuggingFace` `GSAP` `Web Bluetooth` `ESP32`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-graduation)
+[![Web Frontend](https://img.shields.io/badge/Web_Frontend-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-web)
 [![Mobile Backend](https://img.shields.io/badge/Mobile_Backend-Repo-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-backend)
 [![Mobile Frontend](https://img.shields.io/badge/Mobile_Frontend-Repo-02569B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sungeun0318/noos-mobile)
 
