@@ -34,7 +34,7 @@
 
 **AI / Python & DevOps**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,numpy,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,githubactions,elasticsearch,gradle&theme=dark" />
 
 </div>
 
